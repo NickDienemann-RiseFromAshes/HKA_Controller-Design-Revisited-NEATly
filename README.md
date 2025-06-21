@@ -132,7 +132,7 @@ For a comprehensive presentation of results and methodology, please refer to the
 ## Institutional Affiliation
 
 This research was conducted during my project work at the **Hochschule Karlsruhe – University of Applied Sciences**, under the supervision of:  
-- **Prof. Dr.-Ing. Jan Bauer** (Examiner)
+- **Prof. Dr. Jan Bauer** (Examiner)
 
 All experiments and framework extensions were carried out independently by the author. The work was graded **1.0** (highest possible in Germany).
 
